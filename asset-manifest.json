@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/projects/cal/static/css/main.65aa052b.chunk.css",
-    "main.js": "/projects/cal/static/js/main.71c29404.chunk.js",
-    "main.js.map": "/projects/cal/static/js/main.71c29404.chunk.js.map",
-    "runtime-main.js": "/projects/cal/static/js/runtime-main.5f62dd91.js",
-    "runtime-main.js.map": "/projects/cal/static/js/runtime-main.5f62dd91.js.map",
-    "static/js/2.4efb6931.chunk.js": "/projects/cal/static/js/2.4efb6931.chunk.js",
-    "static/js/2.4efb6931.chunk.js.map": "/projects/cal/static/js/2.4efb6931.chunk.js.map",
-    "index.html": "/projects/cal/index.html",
-    "static/css/main.65aa052b.chunk.css.map": "/projects/cal/static/css/main.65aa052b.chunk.css.map",
-    "static/js/2.4efb6931.chunk.js.LICENSE.txt": "/projects/cal/static/js/2.4efb6931.chunk.js.LICENSE.txt"
+    "main.css": "/p/cal/static/css/main.65aa052b.chunk.css",
+    "main.js": "/p/cal/static/js/main.71c29404.chunk.js",
+    "main.js.map": "/p/cal/static/js/main.71c29404.chunk.js.map",
+    "runtime-main.js": "/p/cal/static/js/runtime-main.aa50cf93.js",
+    "runtime-main.js.map": "/p/cal/static/js/runtime-main.aa50cf93.js.map",
+    "static/js/2.4efb6931.chunk.js": "/p/cal/static/js/2.4efb6931.chunk.js",
+    "static/js/2.4efb6931.chunk.js.map": "/p/cal/static/js/2.4efb6931.chunk.js.map",
+    "index.html": "/p/cal/index.html",
+    "static/css/main.65aa052b.chunk.css.map": "/p/cal/static/css/main.65aa052b.chunk.css.map",
+    "static/js/2.4efb6931.chunk.js.LICENSE.txt": "/p/cal/static/js/2.4efb6931.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f62dd91.js",
+    "static/js/runtime-main.aa50cf93.js",
     "static/js/2.4efb6931.chunk.js",
     "static/css/main.65aa052b.chunk.css",
     "static/js/main.71c29404.chunk.js"
